@@ -4,7 +4,7 @@ A 32-month, build-from-the-ground-up path into AI safety research — math found
 
 **This repo is the evidence layer.** Not a to-do list — a record of *finished things*. Every milestone below only gets checked when there's a real artifact (code, proof set, or published writeup) linked next to it. The granular drill-and-mastery tracking lives privately in MasteryMaven; what's here is what anyone can verify.
 
-- **Window:** May 27, 2026 → ~Oct 2029 (paced for ~8.5 hr/wk, provisional)
+- **Window:** June 2026 → ~Oct 2029 (paced for ~8.5 hr/wk, provisional)
 - **Currently:** Phase 0 — Pre-flight
 - **All courses:** free or free-to-audit
 - **Long game:** Athabasca BSc → graduate study → AI safety research
