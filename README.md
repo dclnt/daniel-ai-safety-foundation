@@ -33,7 +33,7 @@ A 32-month, build-from-the-ground-up path into AI safety research — math found
 
 | Phase | Theme | Window | Milestones |
 |---|---|---|---|
-| **1** | Math Foundations | May 2026 – Feb 2027 | M0 · M1 · M2 → [`phase-1/`](phase-1/) |
+| **1** | Math Foundations | Jun 2026 – Feb 2027 | M0 · M1 · M2 → [`phase-1/`](phase-1/) |
 | **2** | ML Implementation | Feb – Oct 2027 | M3 · M4 → [`phase-2/`](phase-2/) |
 | **3** | Frontier Alignment | Oct 2027 – Jan 2029 | M5 · M6 → [`phase-3/`](phase-3/) |
 | **4** | Output + Athabasca | Jan – Oct 2029 | M7 · M8 → [`phase-4/`](phase-4/) |
