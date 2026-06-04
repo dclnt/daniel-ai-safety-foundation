@@ -4,6 +4,22 @@ Running journal of the 32-month foundation. Newest entries on top. Short and hon
 
 ---
 
+## 2026-06-04 — Pre-flight self-audit passed (8/8)
+
+Ran the full 8-item cold triage across all three subject blocks — Strang readiness (matrix × vector,
+both views), Karpathy readiness (chain rule, exp/tanh derivatives, log rules, Python dunder + NumPy
+broadcasting), and Stat 110 readiness (n-choose-k, set notation, Σ-sum).
+
+Result: 8/8 passed after the remediation ladder. Items 2–4 and 6–8 came back on first attempt. Items
+1 and 5 needed teaching from scratch — matrix × vector had 0 prior knowledge (not a retention slip),
+and NumPy was genuinely new material (flagged for a short familiarization session before Karpathy
+Lec 2). Both passed after full walkthroughs and two clean T3 reps.
+
+Hard gate lifted: MasteryMaven P0 skill graph is now unblocked. Strang Lec 1 still waits on 3B1B
+ELA completion. One prerequisite down; two to go before M0 closes.
+
+---
+
 ## 2026-06-02 — Timeline re-paced to ~8.5 hr/week
 
 Recalculated the whole schedule against a realistic study budget (~8.5 hr/wk sustained, the
