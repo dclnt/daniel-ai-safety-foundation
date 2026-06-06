@@ -56,6 +56,12 @@ jobs:
           git config user.name "weekly-log-bot"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+          # The extract step already wrote $FACTS to the working tree (on main).
+          # Move it aside so checking out an existing weekly-log branch (which may
+          # already track that file from a prior run) can't fail on "untracked
+          # working tree files would be overwritten".
+          mv "$FACTS" "$RUNNER_TEMP/$FACTS"
+
           # Re-run safe: reuse the week's branch if it already exists.
           if git ls-remote --exit-code --heads origin "$BRANCH" >/dev/null 2>&1; then
             git fetch origin "$BRANCH"
@@ -63,6 +69,10 @@ jobs:
           else
             git checkout -b "$BRANCH"
           fi
+
+          # Put the freshly generated facts back (overwrites the tracked copy if
+          # the branch already had one); git diff then tells us if anything changed.
+          mv "$RUNNER_TEMP/$FACTS" "$FACTS"
 
           git add "$FACTS"
           if git diff --cached --quiet; then
