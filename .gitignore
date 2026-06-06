@@ -15,3 +15,7 @@ node_modules/
 
 # Local env
 .env
+
+# Private weekly-logger tooling that must never reach this public repo
+# (voice kit, journal-logger skill, personal source exports). Safety net.
+automate-progress-logs/
