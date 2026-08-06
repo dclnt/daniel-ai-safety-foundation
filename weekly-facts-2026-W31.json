@@ -1,0 +1,110 @@
+{
+  "week_label": "2026-W31",
+  "week_start": "2026-07-30",
+  "week_end": "2026-08-05",
+  "generated_at": "2026-08-06T10:44:15.481Z",
+  "timezone": "America/Edmonton",
+  "days": [
+    {
+      "date": "2026-07-30",
+      "had_activity": true,
+      "drill_attempts": 0,
+      "drill_correct": 0,
+      "drill_accuracy": null,
+      "cards_viewed": 8,
+      "cards_completed": 8,
+      "skills_practiced": [],
+      "milestones_passed": []
+    },
+    {
+      "date": "2026-07-31",
+      "had_activity": false,
+      "drill_attempts": 0,
+      "drill_correct": 0,
+      "drill_accuracy": null,
+      "cards_viewed": 0,
+      "cards_completed": 0,
+      "skills_practiced": [],
+      "milestones_passed": []
+    },
+    {
+      "date": "2026-08-01",
+      "had_activity": false,
+      "drill_attempts": 0,
+      "drill_correct": 0,
+      "drill_accuracy": null,
+      "cards_viewed": 0,
+      "cards_completed": 0,
+      "skills_practiced": [],
+      "milestones_passed": []
+    },
+    {
+      "date": "2026-08-02",
+      "had_activity": false,
+      "drill_attempts": 0,
+      "drill_correct": 0,
+      "drill_accuracy": null,
+      "cards_viewed": 0,
+      "cards_completed": 0,
+      "skills_practiced": [],
+      "milestones_passed": []
+    },
+    {
+      "date": "2026-08-03",
+      "had_activity": false,
+      "drill_attempts": 0,
+      "drill_correct": 0,
+      "drill_accuracy": null,
+      "cards_viewed": 0,
+      "cards_completed": 0,
+      "skills_practiced": [],
+      "milestones_passed": []
+    },
+    {
+      "date": "2026-08-04",
+      "had_activity": false,
+      "drill_attempts": 0,
+      "drill_correct": 0,
+      "drill_accuracy": null,
+      "cards_viewed": 0,
+      "cards_completed": 0,
+      "skills_practiced": [],
+      "milestones_passed": []
+    },
+    {
+      "date": "2026-08-05",
+      "had_activity": true,
+      "drill_attempts": 11,
+      "drill_correct": 8,
+      "drill_accuracy": 0.73,
+      "cards_viewed": 6,
+      "cards_completed": 6,
+      "skills_practiced": [
+        "list-dict-roles"
+      ],
+      "milestones_passed": []
+    }
+  ],
+  "week_summary": {
+    "week_label": "2026-W31",
+    "active_days": 2,
+    "no_activity_days": [
+      "2026-07-31",
+      "2026-08-01",
+      "2026-08-02",
+      "2026-08-03",
+      "2026-08-04"
+    ],
+    "total_drill_attempts": 11,
+    "total_drill_correct": 8,
+    "avg_drill_accuracy": 0.73,
+    "total_cards_completed": 14,
+    "distinct_lessons_worked": 3,
+    "milestones_passed": [],
+    "source_tables": [
+      "drill_attempts",
+      "lesson_completions",
+      "milestone_capstones"
+    ]
+  }
+}
