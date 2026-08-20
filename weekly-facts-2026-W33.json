@@ -1,0 +1,133 @@
+{
+  "week_label": "2026-W33",
+  "week_start": "2026-08-13",
+  "week_end": "2026-08-19",
+  "generated_at": "2026-08-20T08:45:02.196Z",
+  "timezone": "America/Edmonton",
+  "days": [
+    {
+      "date": "2026-08-13",
+      "had_activity": false,
+      "drill_attempts": 0,
+      "drill_correct": 0,
+      "drill_accuracy": null,
+      "cards_viewed": 0,
+      "cards_completed": 0,
+      "skills_practiced": [],
+      "milestones_passed": []
+    },
+    {
+      "date": "2026-08-14",
+      "had_activity": true,
+      "drill_attempts": 22,
+      "drill_correct": 19,
+      "drill_accuracy": 0.86,
+      "cards_viewed": 1,
+      "cards_completed": 5,
+      "skills_practiced": [
+        "parent-child",
+        "parent-init"
+      ],
+      "milestones_passed": []
+    },
+    {
+      "date": "2026-08-15",
+      "had_activity": true,
+      "drill_attempts": 30,
+      "drill_correct": 28,
+      "drill_accuracy": 0.93,
+      "cards_viewed": 6,
+      "cards_completed": 8,
+      "skills_practiced": [
+        "inheritance-chain",
+        "parent-child",
+        "parent-init",
+        "repeated-trials"
+      ],
+      "milestones_passed": []
+    },
+    {
+      "date": "2026-08-16",
+      "had_activity": true,
+      "drill_attempts": 70,
+      "drill_correct": 61,
+      "drill_accuracy": 0.87,
+      "cards_viewed": 7,
+      "cards_completed": 8,
+      "skills_practiced": [
+        "calculate-spring-force",
+        "confidence-interval",
+        "frame-experiment",
+        "label-input-response",
+        "mean-distance",
+        "standard-deviation",
+        "variance"
+      ],
+      "milestones_passed": []
+    },
+    {
+      "date": "2026-08-17",
+      "had_activity": true,
+      "drill_attempts": 10,
+      "drill_correct": 10,
+      "drill_accuracy": 1,
+      "cards_viewed": 5,
+      "cards_completed": 6,
+      "skills_practiced": [
+        "calculate-spring-force",
+        "explain-line-fit"
+      ],
+      "milestones_passed": []
+    },
+    {
+      "date": "2026-08-18",
+      "had_activity": true,
+      "drill_attempts": 20,
+      "drill_correct": 20,
+      "drill_accuracy": 1,
+      "cards_viewed": 6,
+      "cards_completed": 6,
+      "skills_practiced": [
+        "degree-change",
+        "line-model",
+        "polyfit-line",
+        "squared-error"
+      ],
+      "milestones_passed": []
+    },
+    {
+      "date": "2026-08-19",
+      "had_activity": true,
+      "drill_attempts": 36,
+      "drill_correct": 35,
+      "drill_accuracy": 0.97,
+      "cards_viewed": 0,
+      "cards_completed": 1,
+      "skills_practiced": [
+        "compare-mse-same-data",
+        "interpret-r-squared",
+        "read-fit-input-output",
+        "spot-mse-context-limit"
+      ],
+      "milestones_passed": []
+    }
+  ],
+  "week_summary": {
+    "week_label": "2026-W33",
+    "active_days": 6,
+    "no_activity_days": [
+      "2026-08-13"
+    ],
+    "total_drill_attempts": 188,
+    "total_drill_correct": 173,
+    "avg_drill_accuracy": 0.92,
+    "total_cards_completed": 34,
+    "distinct_lessons_worked": 5,
+    "milestones_passed": [],
+    "source_tables": [
+      "drill_attempts",
+      "lesson_completions",
+      "milestone_capstones"
+    ]
+  }
+}
