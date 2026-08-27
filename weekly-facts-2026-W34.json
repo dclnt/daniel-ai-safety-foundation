@@ -1,0 +1,127 @@
+{
+  "week_label": "2026-W34",
+  "week_start": "2026-08-20",
+  "week_end": "2026-08-26",
+  "generated_at": "2026-08-27T18:59:16.545Z",
+  "timezone": "America/Edmonton",
+  "days": [
+    {
+      "date": "2026-08-20",
+      "had_activity": true,
+      "drill_attempts": 25,
+      "drill_correct": 23,
+      "drill_accuracy": 0.92,
+      "cards_viewed": 6,
+      "cards_completed": 6,
+      "skills_practiced": [
+        "explain-generalization",
+        "identify-training-error",
+        "state-model-purpose",
+        "use-cross-validation"
+      ],
+      "milestones_passed": []
+    },
+    {
+      "date": "2026-08-21",
+      "had_activity": true,
+      "drill_attempts": 63,
+      "drill_correct": 58,
+      "drill_accuracy": 0.92,
+      "cards_viewed": 12,
+      "cards_completed": 11,
+      "skills_practiced": [
+        "choose-features",
+        "extra-term-zero",
+        "generalize-data",
+        "learning-paradigms",
+        "ml-meaning",
+        "new-data-check",
+        "noise-overfit",
+        "training-fit"
+      ],
+      "milestones_passed": []
+    },
+    {
+      "date": "2026-08-22",
+      "had_activity": true,
+      "drill_attempts": 2,
+      "drill_correct": 0,
+      "drill_accuracy": 0,
+      "cards_viewed": 10,
+      "cards_completed": 14,
+      "skills_practiced": [
+        "generalize-arith-rule"
+      ],
+      "milestones_passed": []
+    },
+    {
+      "date": "2026-08-23",
+      "had_activity": true,
+      "drill_attempts": 3,
+      "drill_correct": 1,
+      "drill_accuracy": 0.33,
+      "cards_viewed": 0,
+      "cards_completed": 0,
+      "skills_practiced": [
+        "generalize-arith-rule"
+      ],
+      "milestones_passed": []
+    },
+    {
+      "date": "2026-08-24",
+      "had_activity": false,
+      "drill_attempts": 0,
+      "drill_correct": 0,
+      "drill_accuracy": null,
+      "cards_viewed": 0,
+      "cards_completed": 0,
+      "skills_practiced": [],
+      "milestones_passed": []
+    },
+    {
+      "date": "2026-08-25",
+      "had_activity": true,
+      "drill_attempts": 0,
+      "drill_correct": 0,
+      "drill_accuracy": null,
+      "cards_viewed": 1,
+      "cards_completed": 2,
+      "skills_practiced": [],
+      "milestones_passed": []
+    },
+    {
+      "date": "2026-08-26",
+      "had_activity": true,
+      "drill_attempts": 46,
+      "drill_correct": 40,
+      "drill_accuracy": 0.87,
+      "cards_viewed": 10,
+      "cards_completed": 9,
+      "skills_practiced": [
+        "dw-def",
+        "dw-gather-integrate",
+        "dw-purpose",
+        "dw-scenario-apply"
+      ],
+      "milestones_passed": []
+    }
+  ],
+  "week_summary": {
+    "week_label": "2026-W34",
+    "active_days": 6,
+    "no_activity_days": [
+      "2026-08-24"
+    ],
+    "total_drill_attempts": 139,
+    "total_drill_correct": 122,
+    "avg_drill_accuracy": 0.88,
+    "total_cards_completed": 42,
+    "distinct_lessons_worked": 8,
+    "milestones_passed": [],
+    "source_tables": [
+      "drill_attempts",
+      "lesson_completions",
+      "milestone_capstones"
+    ]
+  }
+}
